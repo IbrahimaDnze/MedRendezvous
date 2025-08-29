@@ -4,6 +4,9 @@
   "private": true,
   "homepage": "https://med-rendezvous-9845vtrf8-ibrahima-sory-barry-s-projects.vercel.app",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
